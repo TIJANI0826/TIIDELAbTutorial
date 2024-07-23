@@ -1,0 +1,6 @@
+
+tests run: 5
+errors: 0
+failures: 0
+success: 5
+skipped: 0
